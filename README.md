@@ -9,8 +9,8 @@ Maintainer - Dong Bo
 ## Papers
 
 #### Graph Related
-Social Attention: Modeling Attention in Human Crowds [Paper](https://arxiv.org/abs/1710.04689)
-Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model [Paper](https://arxiv.org/pdf/1902.05437.pdf)
+- Social Attention: Modeling Attention in Human Crowds [Paper](https://arxiv.org/abs/1710.04689)
+- Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model [Paper](https://arxiv.org/pdf/1902.05437.pdf)
 
 
 #### RNN Related
