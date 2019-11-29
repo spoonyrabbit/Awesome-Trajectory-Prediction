@@ -1,4 +1,4 @@
-# Awesome-Trajectory-Prediction
+# Trajectory-Prediction-Collection
 
 Maintainer - Dong Bo
 
