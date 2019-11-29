@@ -1,7 +1,5 @@
 # Trajectory-Prediction-Collection
 
-Maintainer - Dong Bo
-
 
 ## Papers
 
