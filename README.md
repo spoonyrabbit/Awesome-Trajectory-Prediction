@@ -3,13 +3,16 @@
 
 This is a list of useful information about trajectory prediction. Related papers, datasets and codes are included.
 
-Maintainer - Hao Xue
+Maintainer - Dong Bo
 
-
-## Contributing
-Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction/pulls) to add new resources.
 
 ## Papers
+
+#### Graph Related
+Social Attention: Modeling Attention in Human Crowds [Paper](https://arxiv.org/abs/1710.04689)
+Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model [Paper](https://arxiv.org/pdf/1902.05437.pdf)
+
+
 #### RNN Related
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, 2018, [code](https://github.com/locuslab/TCN)
 - When will you do what? - Anticipating Temporal Occurrences of Activities, 2018 CVPR,   [code]( https://github.com/yabufarha/anticipating-activities)
@@ -60,6 +63,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, 2019 CVPR, [Paper](https://arxiv.org/pdf/1812.09395.pdf)
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, 2019 CVPR, [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
 - Robust Aleatoric Modeling for Future Vehicle Localization, 2019 CVPR [*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition), [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Hudnell_Robust_Aleatoric_Modeling_for_Future_Vehicle_Localization_CVPRW_2019_paper.pdf)
+- Lane-Attention: Predicting Vehicles’ Moving Trajectories by Learning Their Attention over Lanes [Paper](https://arxiv.org/pdf/1909.13377.pdf)
 
 #### Traffic Prediction
 
